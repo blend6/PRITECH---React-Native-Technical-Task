@@ -70,6 +70,15 @@ Local persistence is handled in `src/storage/tasksStorage.js`.
 Screens are split into list, add, and details views under `src/screens`.
 Reusable UI pieces live in `src/components`.
 
+## Screenshots
+
+Below are the screenshots demonstrating the main screens. Add the image files to `assets/screenshots/` with these names if you want them to render on GitHub:
+
+![Task list](assets/screenshots/sc1.jfif)
+![Add task](assets/screenshots/sc2.jfif)
+![Task details](assets/screenshots/sc3.jfif)
+![Suggestions](assets/screenshots/sc4.jfif)
+
 ## Submission Checklist
 
 - Push the repository to GitHub and make it public.
