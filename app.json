@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PritechTaskManager",
-    "slug": "PritechTaskManager",
+    "name": "PRITECH Task Manager",
+    "slug": "pritech-task-manager",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
